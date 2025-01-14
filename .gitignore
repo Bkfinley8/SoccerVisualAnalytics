@@ -1,3 +1,9 @@
 im-env
 training/football-players-detection-1
 runs
+models
+yolov8
+training
+output_videos
+input_videos
+stubs
